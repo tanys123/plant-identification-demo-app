@@ -1,4 +1,7 @@
-<!-- Please follow this format for the PR title: [Example Search API] Summary of the PR (omit the [Example Search API] part if this PR is not related to an API) -->
+---
+title: '[Example Search API] (omit if not an API) Short summary of the bug'
+
+---
 
 ## Description
 Please provide a detailed description of what this PR does, why it's needed, and any relevant context. Include steps to reproduce the issue (if applicable) and how this change addresses it.
