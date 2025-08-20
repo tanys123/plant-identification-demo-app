@@ -1,4 +1,4 @@
-# Plant Identifier Demo App
+# Plant Identifier Demo App 
 
 A Next.js application that uses SerpApi Google Lens to identify plants from photos.
 
